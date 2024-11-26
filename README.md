@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Wechat:1239629065
-- 😄 Pronouns: Spaek
+- 😄 Pronouns: Spark
 - ⚡ Fun fact: ...
 
 <!---
